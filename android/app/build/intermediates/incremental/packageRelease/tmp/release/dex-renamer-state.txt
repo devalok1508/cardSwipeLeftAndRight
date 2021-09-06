@@ -1,0 +1,4 @@
+#Sat Aug 14 16:45:27 IST 2021
+base.0=/home/user/Desktop/Quick/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

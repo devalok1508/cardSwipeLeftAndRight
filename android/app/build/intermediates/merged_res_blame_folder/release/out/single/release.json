@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/raw_app.json.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/raw/app.json"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_assests_images_phototfirst.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xxhdpi/src_assests_images_phototfirst.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assests_icon_indicator.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-mdpi/src_assests_icon_indicator.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_assests_icon_indicator.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xxhdpi/src_assests_icon_indicator.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assests_icon_chatnew_messageone.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-mdpi/src_assests_icon_chatnew_messageone.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_assests_icon_backbutton.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xxhdpi/src_assests_icon_backbutton.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assests_icon_backbutton.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-mdpi/src_assests_icon_backbutton.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_assests_icon_indicator.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xhdpi/src_assests_icon_indicator.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_assests_icon_crossx.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xhdpi/src_assests_icon_crossx.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_assests_icon_dislike.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xxhdpi/src_assests_icon_dislike.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assests_images_header.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-mdpi/src_assests_images_header.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_assests_images_phototfirst.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xhdpi/src_assests_images_phototfirst.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_assests_icon_peoplenew.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xhdpi/src_assests_icon_peoplenew.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_assests_icon_chatnew_messageone.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xxhdpi/src_assests_icon_chatnew_messageone.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_assests_icon_chatnew_messageone.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xhdpi/src_assests_icon_chatnew_messageone.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_assests_icon_like.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xxhdpi/src_assests_icon_like.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_assests_images_content.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xxhdpi/src_assests_images_content.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assests_images_phototfirst.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-mdpi/src_assests_images_phototfirst.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_assests_icon_dislike.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xhdpi/src_assests_icon_dislike.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_assests_icon_filterone.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xhdpi/src_assests_icon_filterone.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assests_icon_like.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-mdpi/src_assests_icon_like.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_assests_images_content.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xhdpi/src_assests_images_content.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assests_icon_peoplenew.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-mdpi/src_assests_icon_peoplenew.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_assests_icon_like.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xhdpi/src_assests_icon_like.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_assests_icon_star.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xxhdpi/src_assests_icon_star.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assests_icon_dislike.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-mdpi/src_assests_icon_dislike.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_assests_icon_crossx.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xxhdpi/src_assests_icon_crossx.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assests_icon_homenew_group.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-mdpi/src_assests_icon_homenew_group.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_assests_icon_peoplenew.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xxhdpi/src_assests_icon_peoplenew.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assests_images_content.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-mdpi/src_assests_images_content.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assests_icon_crossx.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-mdpi/src_assests_icon_crossx.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_assests_icon_backbutton.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xhdpi/src_assests_icon_backbutton.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_assests_icon_homenew_group.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xxhdpi/src_assests_icon_homenew_group.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_src_assests_icon_filterone.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xxhdpi/src_assests_icon_filterone.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xhdpi_src_assests_icon_homenew_group.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xhdpi/src_assests_icon_homenew_group.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/user/Desktop/Quick/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assests_icon_filterone.png.flat",
+        "source": "/home/user/Desktop/Quick/android/app/build/generated/res/react/release/drawable-mdpi/src_assests_icon_filterone.png"
+    }
+]
